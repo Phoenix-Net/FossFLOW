@@ -4,6 +4,8 @@ This fork of FossFLOW was developed for our personal use, however we wanted to s
 
 This fork reworks the application so that only the "FossFLOW" UI is shown, with no header, no editing tools, and no import-export tools. Think of this as a read-only version, for viewing on a public webpage.
 
+![demo_picture](https://raw.githubusercontent.com/Phoenix-Net/FossFLOW/master/demo.png)
+
 ---
 
 FossFLOW is a powerful, open-source Progressive Web App (PWA) for creating beautiful isometric diagrams. Built with React and the Isoflow (Now forked and published to NPM as fossflow) library, it runs entirely in your browser with offline support.
